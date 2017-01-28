@@ -10,9 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/mrkevinsmithdesign/node-express.git"
   },
-  "dependencies":{
-    "express":"*",
-    "body-parser":"*"
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.5",
+    "express": "*"
   },
   "author": "Kevin Smith",
   "license": "ISC",
